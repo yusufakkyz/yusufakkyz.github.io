@@ -1,0 +1,34 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+    height: 90px;
+}
+
+.pct{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 200px;
+}
+
+.pct1{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    align-items: center;
+}
+
+#navbar ul li a{
+   font-size: 12px; 
+   padding: 5px
+   
+}
+#navbar ul{
+    list-style-type: none;
+}
+

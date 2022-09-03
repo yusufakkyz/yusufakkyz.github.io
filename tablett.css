@@ -1,0 +1,19 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+    height: 90px;
+}
+
+
+.pct1{
+    width: 32.9%;
+    margin: 0;
+    padding: 0;
+}
+
+.pct{
+   width: 49.7%;
+
+}

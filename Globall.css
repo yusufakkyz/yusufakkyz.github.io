@@ -1,0 +1,52 @@
+.textcenter{
+    text-align: center;
+}
+.headingsmall{
+    font-size: 1.25rem;
+}
+.headingmedium{
+    font-size: 1.5rem;
+}
+.headingbig{
+    font-size: 2rem;
+}
+
+/*color*/
+.bgdarkgrey{
+    background: rgb(92, 92, 92);
+}
+.bglightgrey{
+    background-color: rgb(182, 181, 181);
+}
+
+/*container*/
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.btn{
+    /*normal halde*/
+    margin-top: 1.25rem;
+    background: rgb(82, 82, 82);
+    padding: 0.8rem 3rem;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.btnhover{
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+.btnblock{
+    width: 100%;
+}
+
+.form-group{
+    padding: 0.25rem 0;
+}
+.form-group label{
+    display: block;
+}
