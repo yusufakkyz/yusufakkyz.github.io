@@ -30,6 +30,7 @@ a{
     align-items: center;
     padding: 0 0.75rem;
     height: 90px;
+    position: fixed;
 }
 #navbar ul{
     list-style-type:none;
